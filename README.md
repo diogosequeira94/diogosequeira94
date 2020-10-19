@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Diogo!
 
 🔭 I’m currently working on BMW<br />
-🌱 I’m a Flutter enthuasiast<br />
+🌱 I’m a Flutter and Android Dev, and on my way to become a Google Developer Expert<br />
 😄 Pronouns: He/Him<br />
 💬 Ask me about music<br />
 ⚡ Fun fact: I like pinneaple on pizzas<br />

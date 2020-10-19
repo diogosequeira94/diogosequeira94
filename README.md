@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on BMW App<br />
 :computer: I’m a Flutter and Android Developer<br />
-🥑 Fitness Enthusiast
+🥑 Fitness Enthusiast<br />
 😄 Pronouns: He/Him<br />
 💬 Ask me about music or you know... any code related stuff<br />
 ⚡ Fun fact: I like pinneaple on pizzas<br />

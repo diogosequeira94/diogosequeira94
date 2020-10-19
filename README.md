@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Diogo!
 
 🔭 I’m currently working on BMW<br />
-🌱 I’m a Flutter and Android Dev, and on my way to become a Google Developer Expert<br />
+🌱 I’m a Flutter and Android enthusiast<br />
 😄 Pronouns: He/Him<br />
 💬 Ask me about music<br />
 ⚡ Fun fact: I like pinneaple on pizzas<br />
+📫 How to reach me: https://www.linkedin.com/in/diogo-sequeira94/
 <br />
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosequeira94&hide=css,html)

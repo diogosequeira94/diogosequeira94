@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Diogo!
 
-🔭 I’m currently working on BMW<br />
+🔭 I’m currently working on BMW App<br />
 🌱 I’m a Flutter and Android enthusiast<br />
 😄 Pronouns: He/Him<br />
-💬 Ask me about music<br />
+💬 Ask me about music or you know... any code related stuff<br />
 ⚡ Fun fact: I like pinneaple on pizzas<br />
 📫 How to reach me: https://www.linkedin.com/in/diogo-sequeira94/
 <br />

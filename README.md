@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/diogo-sequeira94/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-🔭 I’m currently working on BMW App<br />
+🔭 I’m currently working for BMW-Tech<br />
 :computer: I’m a Flutter and Android Developer<br />
 🥑 Fitness Enthusiast<br />
 😄 Pronouns: He/Him<br />

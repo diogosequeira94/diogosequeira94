@@ -5,7 +5,6 @@
 🔭 I’m currently working on developing dApps<br />
 :computer: I’m a Flutter and Android Developer<br />
 🥑 Fitness Enthusiast<br />
-😄 Pronouns: He/Him<br />
 💬 Ask me about music or you know... any code related stuff<br />
 ⚡ Fun fact: Pinneaple pizzas are my favv<br />
 📫 How to reach me: https://www.linkedin.com/in/diogo-sequeira94/

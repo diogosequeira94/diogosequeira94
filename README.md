@@ -9,7 +9,7 @@
 📫 How to reach me: https://www.linkedin.com/in/diogo-sequeira94/
 <br />
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosequeira9&layout=compact&hide=css,html)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosequeira94&layout=compact&hide=css,html)
 <br />
 <br />
 [![Diogos's github stats](https://github-readme-stats.vercel.app/api?username=diogosequeira94&count_private=true&show_icons=true&theme=default)](https://github.com/diogosequeira94/github-readme-stats)
